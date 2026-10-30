@@ -52,3 +52,6 @@ public class Main {
 
     }
 }
+
+
+// Teste de atualização para o Git, alteração no código para testar o GitHub.
